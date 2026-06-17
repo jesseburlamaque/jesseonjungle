@@ -1,12 +1,12 @@
 baseURL = 'https://jesseburlamaque.github.io/jesseonjungle/'
 locale = 'pt-BR'
-title = 'JesseonJungle'
+title = 'JesseOnJungle'
 theme = 'compost'
 enableEmoji = true
 enableRobotsTXT = true
 
 [params]
-  description = 'Data pipelines, sensoriamento remoto e machine learning aplicados a dados ambientais. Dez anos integrando satélites, drones e inventários para transformar dados em decisão.'
+  description = 'Geospatial Data Pipelines, Sensoriamento Remoto e Machine Learning.'
   colorScheme = 'light'
   mainSections = ['posts']
 
