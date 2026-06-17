@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on JesseonJungle</title><link>https://jesseburlamaque.github.io/jesseonjungle/tags/</link><description>Recent content in Tags on JesseonJungle</description><generator>Hugo</generator><language>pt-BR</language><lastBuildDate>Tue, 16 Jun 2026 22:09:28 -0300</lastBuildDate><atom:link href="https://jesseburlamaque.github.io/jesseonjungle/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Amazonia</title><link>https://jesseburlamaque.github.io/jesseonjungle/tags/amazonia/</link><pubDate>Tue, 16 Jun 2026 22:09:28 -0300</pubDate><guid>https://jesseburlamaque.github.io/jesseonjungle/tags/amazonia/</guid><description/></item><item><title>Geoespacial</title><link>https://jesseburlamaque.github.io/jesseonjungle/tags/geoespacial/</link><pubDate>Tue, 16 Jun 2026 22:09:28 -0300</pubDate><guid>https://jesseburlamaque.github.io/jesseonjungle/tags/geoespacial/</guid><description/></item><item><title>Machine-Learning</title><link>https://jesseburlamaque.github.io/jesseonjungle/tags/machine-learning/</link><pubDate>Tue, 16 Jun 2026 22:09:28 -0300</pubDate><guid>https://jesseburlamaque.github.io/jesseonjungle/tags/machine-learning/</guid><description/></item><item><title>Validacao-Espacial</title><link>https://jesseburlamaque.github.io/jesseonjungle/tags/validacao-espacial/</link><pubDate>Tue, 16 Jun 2026 22:09:28 -0300</pubDate><guid>https://jesseburlamaque.github.io/jesseonjungle/tags/validacao-espacial/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on JesseonJungle</title>
+    <link>http://localhost:1313/jesseonjungle/tags/</link>
+    <description>Recent content in Tags on JesseonJungle</description>
+    <generator>Hugo</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Tue, 16 Jun 2026 22:09:28 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/jesseonjungle/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazonia</title>
+      <link>http://localhost:1313/jesseonjungle/tags/amazonia/</link>
+      <pubDate>Tue, 16 Jun 2026 22:09:28 -0300</pubDate>
+      <guid>http://localhost:1313/jesseonjungle/tags/amazonia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geoespacial</title>
+      <link>http://localhost:1313/jesseonjungle/tags/geoespacial/</link>
+      <pubDate>Tue, 16 Jun 2026 22:09:28 -0300</pubDate>
+      <guid>http://localhost:1313/jesseonjungle/tags/geoespacial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine-Learning</title>
+      <link>http://localhost:1313/jesseonjungle/tags/machine-learning/</link>
+      <pubDate>Tue, 16 Jun 2026 22:09:28 -0300</pubDate>
+      <guid>http://localhost:1313/jesseonjungle/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Validacao-Espacial</title>
+      <link>http://localhost:1313/jesseonjungle/tags/validacao-espacial/</link>
+      <pubDate>Tue, 16 Jun 2026 22:09:28 -0300</pubDate>
+      <guid>http://localhost:1313/jesseonjungle/tags/validacao-espacial/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
