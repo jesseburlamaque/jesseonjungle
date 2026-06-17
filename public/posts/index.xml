@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Jesse on Jungle</title>
+    <title>Posts on JesseonJungle</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Jesse on Jungle</description>
+    <description>Recent content in Posts on JesseonJungle</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Tue, 16 Jun 2026 22:09:28 -0300</lastBuildDate>
