@@ -15,7 +15,7 @@
       },
     {{- end -}}
     {{- with .Site.Params.description -}}
-      "description": {{ . | safeJS }},
+      "description": "{{ . | safeJS }}",
     {{- end -}}
     {{- with .Site.Params.logo -}}
       "thumbnailUrl": "{{ . | absURL }}",
