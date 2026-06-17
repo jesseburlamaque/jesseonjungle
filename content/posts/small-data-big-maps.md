@@ -5,7 +5,7 @@ title = 'Small Data, Big Maps: notas de campo de um artigo'
 tags = ['machine-learning', 'geoespacial', 'amazonia', 'validacao-espacial']
 +++
 
-Na Amazônia, ter 150 amostras no Excel não significa ter 150 amostras para o modelo. Significa ter 20 por estrato, em alguns casos menos. E cada parcela custa o equivalente a um bom computador de ML — barco, equipe, equipamento, janela climática. Quando alguém diz "coleta mais dados", está dando um conselho metodologicamente correto e operacionalmente impossível.
+Na Amazônia, ter 150 amostras no Excel não significa ter 150 amostras para o modelo. Significa ter 20 por extrato, em alguns casos menos. E cada parcela custa o equivalente a um bom computador de ML — barco, equipe, equipamento, janela climática. Quando alguém diz "coleta mais dados", está dando um conselho metodologicamente correto e operacionalmente impossível.
 
 Esse foi o ponto de partida do artigo que publiquei no Towards Data Science. Nele, discuto como treinar modelos geoespaciais quando as amostras são escassas, caras e imperfeitas. O foco não é uma receita pronta, mas os trade-offs que aparecem na prática.
 
