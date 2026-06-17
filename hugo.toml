@@ -13,7 +13,7 @@ enableRobotsTXT = true
   [params.author]
     name = 'Jessé Burlamaque'
     image = 'img/author.jpg'
-    bio = 'Data Science · Engenharia de Dados · GIS · Sensoriamento Remoto · ML'
+    bio = 'GIS Specialist | ML | Sensoriamento Remoto | Biomassa & Carbono Florestal'
     links = [
       { github = 'https://github.com/jesseburlamaque' },
       { linkedin = 'https://www.linkedin.com/in/jesseburlamaque/' },
