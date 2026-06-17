@@ -1,5 +1,12 @@
 # jesseonjungle
 
+[![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=flat&logo=hugo&logoColor=white)](https://gohugo.io/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpine.js&logoColor=black)](https://alpinejs.dev/)
+[![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat&logo=postcss&logoColor=white)](https://postcss.org/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=github-pages&logoColor=white)](https://pages.github.com/)
+
 Blog pessoal sobre GIS, sensoriamento remoto, LiDAR, biomassa e carbono florestal, construído com [Hugo](https://gohugo.io/) e tema [Compost](https://github.com/canstand/compost).
 
 ## Estrutura do projeto
