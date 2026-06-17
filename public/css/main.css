@@ -2420,6 +2420,16 @@ body:is(.dark *) {
 }
 
 
+.mt-2 {
+  margin-top: 0.5rem;
+}
+
+
+.mt-3 {
+  margin-top: 0.75rem;
+}
+
+
 .mt-8 {
   margin-top: 2rem;
 }
@@ -2575,6 +2585,11 @@ body:is(.dark *) {
 }
 
 
+.flex-auto {
+  flex: 1 1 auto;
+}
+
+
 .shrink {
   flex-shrink: 1;
 }
@@ -2634,6 +2649,20 @@ body:is(.dark *) {
 
 .justify-center {
   justify-content: center;
+}
+
+
+.space-x-2 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-x-reverse: 0;
+  margin-right: calc(0.5rem * var(--tw-space-x-reverse));
+  margin-left: calc(0.5rem * calc(1 - var(--tw-space-x-reverse)));
+}
+
+
+.space-y-6 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-y-reverse: 0;
+  margin-top: calc(1.5rem * calc(1 - var(--tw-space-y-reverse)));
+  margin-bottom: calc(1.5rem * var(--tw-space-y-reverse));
 }
 
 
@@ -2818,8 +2847,18 @@ body:is(.dark *) {
 }
 
 
+.pl-10 {
+  padding-left: 2.5rem;
+}
+
+
 .pr-2 {
   padding-right: 0.5rem;
+}
+
+
+.pr-4 {
+  padding-right: 1rem;
 }
 
 
@@ -3267,6 +3306,15 @@ body:is(.dark *) {
   .xl\:px-12 {
     padding-left: 3rem;
     padding-right: 3rem;
+  }
+
+  .xl\:pl-16 {
+    padding-left: 4rem;
+  }
+
+  .xl\:text-base {
+    font-size: 1rem;
+    line-height: 1.5rem;
   }
 
   .xl\:text-xl {

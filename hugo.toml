@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://jesseburlamaque.github.io/jesseonjungle/'
 locale = 'pt-BR'
 title = 'JesseonJungle'
 theme = 'compost'
@@ -6,13 +6,23 @@ enableEmoji = true
 enableRobotsTXT = true
 
 [params]
-  description = 'Jesse on Jungle - Um blog sobre tecnologia e desenvolvimento'
+  description = 'GIS, sensoriamento remoto, LiDAR, biomassa e carbono florestal. Notas de campo de quem trabalha com dados ambientais.'
   colorScheme = 'light'
+  mainSections = ['posts']
 
   [params.author]
     name = 'Jessé Burlamaque'
     image = 'img/author.jpg'
-    bio = 'Um pouco sobre você'
+    bio = 'GIS Specialist | Sensoriamento Remoto | LiDAR | Biomassa & Carbono Florestal'
+    links = [
+      { github = 'https://github.com/jesseburlamaque' },
+      { linkedin = 'https://www.linkedin.com/in/jesseburlamaque/' },
+      { medium = 'https://medium.com/@jesseburlamaque' },
+    ]
+
+  [params.homepage]
+    layout = 'page'
+    showRecent = true
 
 [build]
   writeStats = true
