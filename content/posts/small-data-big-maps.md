@@ -1,9 +1,3 @@
----
-noteId: "4f54d33069f111f18bf8c9959cc40ea6"
-tags: []
-
----
-
 +++
 date = '2026-06-16T22:09:28-03:00'
 draft = false
