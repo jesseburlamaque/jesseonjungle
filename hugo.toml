@@ -6,14 +6,14 @@ enableEmoji = true
 enableRobotsTXT = true
 
 [params]
-  description = 'GIS, sensoriamento remoto, LiDAR, biomassa e carbono florestal. Notas de campo de quem trabalha com dados ambientais.'
+  description = 'Data pipelines, sensoriamento remoto e machine learning aplicados a dados ambientais. Dez anos integrando satélites, drones e inventários para transformar dados em decisão.'
   colorScheme = 'light'
   mainSections = ['posts']
 
   [params.author]
     name = 'Jessé Burlamaque'
     image = 'img/author.jpg'
-    bio = 'GIS Specialist | Sensoriamento Remoto | LiDAR | Biomassa & Carbono Florestal'
+    bio = 'Data Science · Engenharia de Dados · GIS · Sensoriamento Remoto · ML'
     links = [
       { github = 'https://github.com/jesseburlamaque' },
       { linkedin = 'https://www.linkedin.com/in/jesseburlamaque/' },
