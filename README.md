@@ -20,18 +20,4 @@ Blog pessoal sobre GIS, sensoriamento remoto, LiDAR, biomassa e carbono floresta
 | `public/` | Site estático gerado pelo Hugo. **Não edite manualmente** — gere com `hugo --gc --minify`. |
 | `resources/_gen/` | Assets processados (CSS/JS). Gerados automaticamente. |
 
-## Como adicionar um novo post
 
-1. Crie um arquivo em `content/posts/nome-do-post.md`.
-2. Use o frontmatter TOML:
-   ```toml
-   +++
-   date = '2026-06-16T22:09:28-03:00'
-   draft = false
-   title = 'Título do Post'
-   tags = ['tag1', 'tag2']
-   +++
-   ```
-3. Escreva o conteúdo em Markdown abaixo do frontmatter.
-4. Execute `hugo --gc --minify` para gerar o site.
-5. Commite e envie para o GitHub.
