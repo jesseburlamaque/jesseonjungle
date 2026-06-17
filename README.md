@@ -1,10 +1,4 @@
----
-noteId: "ab39cfc069f611f18bf8c9959cc40ea6"
-tags: []
-
----
-
-# JesseonJungle
+# jesseonjungle
 
 Blog pessoal sobre GIS, sensoriamento remoto, LiDAR, biomassa e carbono florestal, construído com [Hugo](https://gohugo.io/) e tema [Compost](https://github.com/canstand/compost).
 
